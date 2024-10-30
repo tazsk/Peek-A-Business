@@ -1,4 +1,4 @@
-# Smart Business Insights System
+# Peek a Business
 
 **Team:**  
 **Team #9**
